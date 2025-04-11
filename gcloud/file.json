@@ -1,0 +1,17 @@
+{
+  "audioConfig": {
+    "audioEncoding": "LINEAR16",
+    "effectsProfileId": [
+      "small-bluetooth-speaker-class-device"
+    ],
+    "pitch": 0,
+    "speakingRate": 1
+  },
+  "input": {
+    "text": "それでは授業を始めていきましょう。 今回も新しい文章を読んでいこうと思います。 手元に青ペンを準備して、話を聞いてみてください。 物語文の大事なポイントは、その人の心情を追いかけることだけど、 心情と同時に、"
+  },
+  "voice": {
+    "languageCode": "ja-JP",
+    "name": "ja-JP-Chirp3-HD-Aoede"
+  }
+}

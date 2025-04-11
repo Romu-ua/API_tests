@@ -1,0 +1,7 @@
+.vevn
+.DS_Store
+__pycache__/
+
+
+# openai
+openai/audio/
